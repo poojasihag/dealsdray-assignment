@@ -1,0 +1,101 @@
+[33mcommit 69b5b404180fc655d268787cfeff54d7b555c75d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Sun Jan 7 22:59:08 2024 +0530
+
+    some changes
+
+[33mcommit 9c8670eec07011f055ce8c3ed29008a9d72e1569[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Jan 1 18:03:28 2024 +0530
+
+    some cchanges
+
+[33mcommit 69f6c4cc9404cf8aea2087f6431f9eb2ae1ceefb[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Dec 25 19:55:02 2023 +0530
+
+    Add subscription model
+
+[33mcommit a29e3551373cc562692f7864441dd4cfe3674748[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Dec 25 19:31:06 2023 +0530
+
+    Add refreshAccessToken
+
+[33mcommit 2584d9e85c2573f3c0fb7c9046d30ffe436a0074[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Dec 25 19:05:48 2023 +0530
+
+    login logout added and tested
+
+[33mcommit 4e6fe974a813f08f387e4cbe674cb2f02fd6ca32[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Dec 25 17:42:06 2023 +0530
+
+    logout user added
+
+[33mcommit 0710ebf62e1342214364f7241924572abdc98e8e[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Dec 25 17:03:24 2023 +0530
+
+    login user added and register user tested and working fine
+
+[33mcommit 7fc9c37718f5a1a3d0bc0158f2f9abcc9925e38b[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Sun Dec 24 15:39:26 2023 +0530
+
+    user controller added
+
+[33mcommit 1b36259d8d90f9875521063d825c1239b11b1ab4[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Thu Dec 21 21:42:40 2023 +0530
+
+    all configuration done start writing first controller
+
+[33mcommit fcae8e7757a1f06666b934f83a5f6c39f53aa14b[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Tue Dec 19 22:19:16 2023 +0530
+
+    added multer and clouinary
+
+[33mcommit a899abf924201c0eaaaf00fca3cf7edfde8b478b[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Dec 18 23:54:38 2023 +0530
+
+    json webtoken and bcrypt implemented
+
+[33mcommit 6574b38d6e454646fc977581f21d1ab98ee59d2e[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Mon Dec 18 22:15:28 2023 +0530
+
+    utils file
+
+[33mcommit 6cd542f93d52100ccec9fbda4e124a0ecf91d307[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Sun Dec 17 15:42:24 2023 +0530
+
+    connected to db
+
+[33mcommit 56681807d92f9148ae074ab22af7498bafab43fc[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Sun Dec 17 02:08:06 2023 +0530
+
+    prettier setting added
+
+[33mcommit 454a51324dc59a3407594ded3ce1f6279c539158[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Sun Dec 17 01:52:56 2023 +0530
+
+    initial project setup
+
+[33mcommit e8ab4b1f06882013c5c6852a02a8726a56a18d47[m
+Author: Suraj Sahu <ksuraj3290@gmail.com>
+Date:   Sun Dec 17 01:39:02 2023 +0530
+
+    2nd Commit
+
+[33mcommit af29310f32945d27929aa4eaadb3db7d49494179[m
+Author: Chandru V <chandru@buildmetrix.com>
+Date:   Sun Dec 17 01:24:28 2023 +0530
+
+    first commit
